@@ -63,11 +63,4 @@ The repository emphasizes reproducibility and accessibility through modern compu
 - **Interdisciplinary Applications**: Population dynamics, epidemiology, fluid mechanics, quantum chaos.
 
 ---
-> This repository emphasises how **ODEs and PDEs form the mathematical backbone of dynamical systems**, and how research in **nonlinear dynamics and chaos** leads to fractal geometry and complex behaviour.
-
-
-
-
-
-
 > ⚡ This repository emphasizes **rigor, computation, and modeling**, connecting ODEs and PDEs to dynamical systems and fractals, supported by authoritative textbooks from Robert Devaney and other eminent researchers.

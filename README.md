@@ -8,9 +8,6 @@ This repository is a **research-oriented collection** focused on the rigorous st
 - **PDEs** extend this framework to multiple variables, modelling phenomena like heat diffusion, wave propagation, and fluid dynamics.  
 - **Dynamical Systems** provide the overarching framework for both ODEs and PDEs can be studied as dynamical systems, where the focus is on the **qualitative behavior of solutions** (stability, bifurcations, chaos).  
 - **Fractals and Chaos** emerge naturally in nonlinear dynamical systems. Iterative maps and PDE-driven phenomena (e.g., turbulence) often generate fractal structures, linking analysis to geometry and visualization.
-
-> This repository emphasizes how **ODEs and PDEs form the mathematical backbone of dynamical systems**, and how research in **nonlinear dynamics and chaos** leads to fractal geometry and complex behavior.
-
 ---
 
 ## 🎯 Objectives
@@ -18,8 +15,6 @@ This repository is a **research-oriented collection** focused on the rigorous st
 - Explore **nonlinear phenomena** such as chaos, bifurcations, and fractals.
 - Combine **analytical proofs** with **computational simulations** (numerical solvers, phase portraits, bifurcation diagrams).
 - Serve as a **comprehensive resource** for researchers, educators, and students at multiple levels.
-
----
 
 ---
 
@@ -68,5 +63,11 @@ The repository emphasizes reproducibility and accessibility through modern compu
 - **Interdisciplinary Applications**: Population dynamics, epidemiology, fluid mechanics, quantum chaos.
 
 ---
+> This repository emphasises how **ODEs and PDEs form the mathematical backbone of dynamical systems**, and how research in **nonlinear dynamics and chaos** leads to fractal geometry and complex behaviour.
+
+
+
+
+
 
 > ⚡ This repository emphasizes **rigor, computation, and modeling**, connecting ODEs and PDEs to dynamical systems and fractals, supported by authoritative textbooks from Robert Devaney and other eminent researchers.
